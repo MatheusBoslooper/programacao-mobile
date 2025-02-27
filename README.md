@@ -1,5 +1,5 @@
 # programacao-mobile
 
-Disciplina: Desenvolvimento para Dispositivos Móveis
-Curso: Análise e Desenvolvimento de Sistemas
-Aluno: Matheus Henrique Boslooper
+Desenvolvimento para Dispositivos Móveis/
+Análise e Desenvolvimento de Sistemas/
+Matheus Henrique Boslooper
